@@ -1,0 +1,1 @@
+Preprocessor Definitions 항목에서 가장 우측에 ;_CRT_SECURE_NO_WARNINGS 를 추가하고, 확인을 클릭합니다.
